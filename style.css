@@ -10,7 +10,7 @@
   }
   
   header{
-    background-color: rgb(54, 5, 100);
+    background-color: rgb(14, 165, 225);
     margin-top: 0px;
     padding-top: 20px;
    /* border-radius: 10px; */
@@ -32,10 +32,10 @@
   
   .box-1{
     color: white;
-    text-align:left;
+   
    display: flex;
-   justify-content: space-evenly;
-
+justify-content: center;
+   gap: 30px;
    padding-top: 25px;
   }
   
@@ -72,7 +72,7 @@
   /* footer */
   
   footer{
-    background-color: rgb(48, 5, 89);
+    background-color: rgb(16, 164, 205);
     color: white;
     /* text-align: center; */
     padding-top: 100px;
